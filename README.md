@@ -1,4 +1,4 @@
-## Beer portal backend
+## Mint NFT backend
 
 This is my version of the mint NFT project at buildspace.so.
 It lets you create NFTs with random text and background color, on UK football clubs.
