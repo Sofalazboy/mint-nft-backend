@@ -1,3 +1,9 @@
+## Beer portal backend
+
+This is my version of the mint NFT project at buildspace.so.
+It lets you create NFTs with random text and background color, on UK football clubs.
+This gets stored on-chain, on the Ethereum rinkeby test network.
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
